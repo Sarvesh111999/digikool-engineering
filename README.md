@@ -7,10 +7,10 @@ The platform serves multiple user roles, including System Administrators, School
 
 Repositories -
 Frontend Application - https://github.com/Sarvesh111999/digikool-frontend-ui
-Auth Service - https://github.com/ashishthalia/digikool-auth
-Gateway Service - https://github.com/ashishthalia/digikool-gateway
+Auth Service - https://github.com/Sarvesh111999/digikool-backend-auth
+Gateway Service - https://github.com/Sarvesh111999/digikool-backend-gateway
 Payment Gateway Service - https://github.com/Sarvesh111999/digikool-payment-gateway
-Attendance Service - https://github.com/ashishthalia/digikool-attendance
+Attendance Service - https://github.com/Sarvesh111999/digikool-backend-attendance
 
 ## Engineering Highlights
 
